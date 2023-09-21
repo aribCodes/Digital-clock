@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    position: relative;
+    top: 28vh;
+    text-align: center;
+    box-sizing: border-box;
+}
+p{
+    color: white;
+    font-family: "Black Ops One","Orbitron",sans-serif;
+    font-size: 9vh;
+}
